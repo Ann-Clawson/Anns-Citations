@@ -1,8 +1,8 @@
-# Ann's Citations Website Documentation
+# Ann's Citations
 
 ## Overview
 
-Ann's Citations is a unique small business information website created using HTML and CSS. It showcases the services offered with a blend of humor and professionalism, making it stand out. The website is designed to be light, intuitive, and engaging, facilitating easy navigation for all visitors.
+Ann's Citations is a fun little small business informational website created using HTML and CSS. It showcases the services offered with a blend of humor and professionalism, and is designed to be light, intuitive, and engaging, facilitating easy navigation for all visitors.
 
 ## Structure
 
@@ -10,7 +10,7 @@ The website consists of several key sections designed to offer comprehensive inf
 
 ### Header
 
-- Features the logo and navigation links.
+- Features the logo, my cats, and navigation links.
 - Utilizes fixed positioning to ensure navigation is always accessible.
 - Navigation links guide users to **ABOUT**, **SERVICES**, and **MEET THE OWNER** sections.
 
