@@ -31,8 +31,7 @@ The website consists of several key sections designed to offer comprehensive inf
 
 ### Footer
 
-- Concludes the website with copyright information and a visually appealing background image.
-- Ensures a cohesive design aesthetic from start to finish.
+- Concludes the website with copyright information and ensures a cohesive design aesthetic from start to finish.
 
 ## Design
 
