@@ -2,7 +2,7 @@
 
 ## Overview
 
-Ann's Citations is a small business informational website that was fun to create using HTML and CSS. It showcases the services offered with a blend of humor and professionalism, and is designed to be light, intuitive, and engaging, while facilitating easy navigation for all visitors.
+Ann's Citations is a fun small business informational website created using HTML and CSS. It showcases the services offered with a blend of humor and professionalism, and is designed to be light, intuitive, and engaging, while facilitating easy navigation for all visitors.
 
 ## Structure
 
